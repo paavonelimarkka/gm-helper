@@ -6,3 +6,4 @@ Lets make:
 
 - Story image randomizer
 - Dungeon tile randomizer
+- Turn counter
